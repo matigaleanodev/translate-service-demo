@@ -1,0 +1,7 @@
+{
+  "name": "traducciones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
